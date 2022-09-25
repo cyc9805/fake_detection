@@ -257,8 +257,8 @@ def load_network_path(network, save_path):
 #     os.mkdir(dir_name)
 
 if __name__ == '__main__':
-    #data_dir = f'{root}/yc_Dataset_date_renamed_train_mod_eng'
-    data_dir = f'{root}/team9_traindata_split20'
+    data_dir = f'{root}/Dataset_date_renamed_add_eng'
+    # data_dir = f'{root}/team9_traindata_split20'
 
     use_gpu = True
 
